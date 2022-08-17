@@ -1,6 +1,6 @@
 # Tetris
 
-Simple Tetris game written in Python.
+Simple Tetris game written in Python. Includes wall kick and hard drop.
 
 https://github.com/zoracode/Tetris/
 
@@ -10,7 +10,7 @@ https://github.com/zoracode/Tetris/
 
 **SPACE** - Hard Drop
 
-**ESC** - Pause the game
+**ESC** - Pause
 
 **F1** - ???
 
