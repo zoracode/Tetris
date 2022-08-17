@@ -4,6 +4,8 @@ Simple Tetris game written in Python.
 
 https://github.com/zoracode/Tetris/
 
+# Controls
+
 **WASD** - Move and rotate the tetromino
 
 **SPACE** - Hard Drop
