@@ -30,7 +30,7 @@ class Tetromino:
              self.pos.x -= 1
              self.pos += offset
              if not player.is_legal(self): self.shape = backup; self.pos -= offset
-          elif backup != self.shape: SFX["rotate"].play()
+          if backup != self.shape: SFX["rotate"].play()
 
       def convert_shape(self):
           return [(int(self.pos.x + x),int(self.pos.y + y))
